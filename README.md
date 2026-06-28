@@ -64,6 +64,27 @@ Actualmente el proyecto se encuentra en **fase de desarrollo activo**, con un en
 - **Componentes Funcionales** - Arquitectura moderna con Hooks
 - **CSS Animations** - Transiciones y animaciones suaves con Tailwind
 
----
 
-## 🏗️ Arquitectura del Proyecto
+## 💻 Instalación y Uso
+
+### **Requisitos Previos**
+- Node.js (v18 o superior)
+- npm o yarn
+
+### **Pasos de Instalación**
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/tu-usuario/hr-manager.git
+
+# 2. Acceder al directorio
+cd hr-manager
+
+# 3. Instalar dependencias
+npm install
+
+# 4. Instalar iconos
+npm install lucide-react
+
+# 5. Iniciar el servidor de desarrollo
+npm run dev
